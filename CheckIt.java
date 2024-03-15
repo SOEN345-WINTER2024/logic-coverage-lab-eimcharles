@@ -5,11 +5,11 @@ public class CheckIt
    {  
       if (a || (b && c))
       {
-         System.out.println ("P is true");
+         System.out.print("P is true");
       }
       else
       {
-         System.out.println ("P isn't true");
+         System.out.print("P isn't true");
       }
    }
    
