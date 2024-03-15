@@ -1,4 +1,5 @@
 public class CheckIt
+
 {
 
    public static void checkIt (boolean a, boolean b, boolean c)
